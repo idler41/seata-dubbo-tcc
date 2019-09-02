@@ -1,0 +1,12 @@
+*.iml
+.idea
+**/logs
+**/overlays
+**/target
+**/uml
+*.settings
+*.jar
+*.log
+*.DS_Store
+**/MonitorController.java
+*.png
